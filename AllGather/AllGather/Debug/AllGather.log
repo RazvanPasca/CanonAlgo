@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AllGather.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Matrix.cpp
+d:\school\an 4\pdc\all_gather\allgather\allgather\matrix.cpp(105): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\school\an 4\pdc\all_gather\allgather\allgather\matrix.cpp(66): warning C4101: 'my_curr_a': unreferenced local variable
+d:\school\an 4\pdc\all_gather\allgather\allgather\matrix.cpp(67): warning C4101: 'my_curr_b': unreferenced local variable
+  AllGather.vcxproj -> D:\School\an 4\PDC\All_Gather\AllGather\Debug\Matrix.exe
